@@ -130,7 +130,7 @@ p {
 .section1 .gradient-box center h2 {
   text-transform: capitalize;
   color: #fff;
-  margin-top: 200px;
+  margin-top: 150px;
   letter-spacing: .02em
 }
 
@@ -225,6 +225,10 @@ p {
   font-weight: 500;
   text-transform: capitalize;
   padding-right: 10px
+}
+
+.footer p span i {
+  color: red
 }
 
 .footer .social-media ul li {
